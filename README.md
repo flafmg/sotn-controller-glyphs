@@ -13,4 +13,4 @@ To be added:
 - Steam Deck
 - Steam Controller
 
-Made By: flaffy and GameMasterEdge <3
+Made By: flaffy and GrandMasterEdge <3
