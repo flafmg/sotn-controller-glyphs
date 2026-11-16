@@ -1,0 +1,7 @@
+{
+  "name": "Controller Glyphs",
+  "version_number": "1.0.0",
+  "website_url": "https://github.com/flafmg/sotn-controller-glyphs",
+  "description": "Swaps the button icons for the ones of the controller in use, or the keyboard key",
+  "dependencies": []
+}
