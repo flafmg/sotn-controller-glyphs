@@ -1,0 +1,9 @@
+{
+    "id": "controller-glyphs",
+    "name": "Controller Glyphs",
+    "version": "1.0.0",
+    "author": "flafmg, GameMasterEdge",
+    "description": "Swaps the button icons for the ones of the controller in use, or the keyboard key",
+    "defaultEnabled": false,
+    "dependencies": []
+}
